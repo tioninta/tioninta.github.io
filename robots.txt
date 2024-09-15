@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tioninta.github.io/sitemap.html.gz
+Sitemap: https://tioninta.github.io/app/sitemap.html.gz
+Sitemap: https://tioninta.github.io/assets/sitemap.html.gz
+Sitemap: https://tioninta.github.io/css/sitemap.html.gz
+Sitemap: https://tioninta.github.io/includes/sitemap.html.gz
+Sitemap: https://tioninta.github.io/item/sitemap.html.gz
+Sitemap: https://tioninta.github.io/src/sitemap.html.gz
